@@ -250,6 +250,11 @@ npm run preview
 
 ---
 
+## Lakshya Dashboard
+
+<img width="975" height="468" alt="image" src="https://github.com/user-attachments/assets/aab0970e-af9a-4b7d-a89b-7931a15969ef" />
+
+
 ## Evaluator Notes
 
 - **Zero Dummy Placeholders:** Every single tab, widget, matrix quadrant, template, and export/import button is wired to real reactive state.
