@@ -1,0 +1,6 @@
+{
+  "name": "Lakshya",
+  "description": "A modern productivity app for managing tasks, goals, habits, focus sessions, and personal progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
