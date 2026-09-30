@@ -1,4 +1,5 @@
 import React from 'react';
+import { Analytics as VercelAnalytics } from '@vercel/analytics/react';
 import { AppProvider, useApp } from './context/AppContext';
 import { Sidebar } from './components/layout/Sidebar';
 import { Header } from './components/layout/Header';
@@ -116,6 +117,7 @@ export function App() {
   return (
     <AppProvider>
       <MainLayout />
+      <VercelAnalytics />
     </AppProvider>
   );
 }
